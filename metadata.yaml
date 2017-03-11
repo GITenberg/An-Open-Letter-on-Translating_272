@@ -1,10 +1,13 @@
 _repo: An-Open-Letter-on-Translating_272
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mann, Gary
     gutenberg_agent_id: '26443'
     url: http://www.gutenberg.org/2009/agents/26443
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/272#An-Open-Letter-on-Translating
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '1995-06-01'
 gutenberg_type: Text
